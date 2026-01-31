@@ -13,22 +13,6 @@ Le dépôt est organisé par journées et projets :
 
 ```
 
-Piscine42/
-├── C00/
-├── C01/
-├── C02/
-├── C03/
-├── C04/
-├── C05/
-├── C06/
-├── C07/
-├── RUSH00/
-├── Rush_01/
-├── rush-02/
-├── bsq/
-├── sh00/
-└── sh01/
-
 ```
 
 Chaque dossier contient les fichiers sources correspondant aux exercices demandés (principalement en C), ainsi que parfois des Makefiles ou scripts shell.
